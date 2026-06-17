@@ -1,0 +1,13 @@
+{
+    "bg_dark": "#1f2430",
+    "bg_editor": "#242936",
+    "bg_header": "#1f2430",
+    "fg_light": "#cbccc6",
+    "fg_dim": "#707a8c",
+    "accent": "#73d0ff",
+    "accent_hover": "#dfbfff",
+    "console_bg": "#1f2430",
+    "console_fg": "#87d96c",
+    "console_err": "#f28779",
+    "sash_color": "#33415e"
+}
